@@ -5,7 +5,7 @@ namespace MongodbInWebApi.Data
 {
     public class AppDbContext
     {
-        public readonly IMongoDatabase mongoDatabase;
+        private readonly IMongoDatabase mongoDatabase;
         public AppDbContext(IConfiguration configuration)
         {
             var connectionString = configuration.GetConnectionString("Mongodb");

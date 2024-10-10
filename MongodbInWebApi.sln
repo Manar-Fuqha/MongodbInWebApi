@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongodbInWebApi", "MongodbInWebApi\MongodbInWebApi.csproj", "{17E2822A-D4BE-480F-812C-E27B2031C0A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbInWebApi", "MongoDbInWebApi\MongoDbInWebApi.csproj", "{EE236782-5EB2-48A4-A6EC-2C10DD95B428}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{17E2822A-D4BE-480F-812C-E27B2031C0A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{17E2822A-D4BE-480F-812C-E27B2031C0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{17E2822A-D4BE-480F-812C-E27B2031C0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{17E2822A-D4BE-480F-812C-E27B2031C0A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE236782-5EB2-48A4-A6EC-2C10DD95B428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE236782-5EB2-48A4-A6EC-2C10DD95B428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE236782-5EB2-48A4-A6EC-2C10DD95B428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE236782-5EB2-48A4-A6EC-2C10DD95B428}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C9425E26-11DC-4615-8A9B-B240376ED8A4}
+		SolutionGuid = {E60DD8CF-9912-4C00-80FB-D87E44ACD6C3}
 	EndGlobalSection
 EndGlobal
